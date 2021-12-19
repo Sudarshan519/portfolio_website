@@ -45720,15 +45720,24 @@ return A.a1Q(this.r,s.b.am(0,r.gu(r)),B.dB)}}
 A.uP.prototype={
 K(a,b){return this.e.$2(b,this.f)}}
 A.xO.prototype={
+<<<<<<< HEAD
 K(a,b){return new A.pl(B.Az,"Flutter Demo",A.a3A(null,B.lM),null)}}
+=======
+K(a,b){return new A.pl(B.Az,"Sudarshan Portfolio",A.a3A(null,B.lM),null)}}
+>>>>>>> d82f930 (init)
 A.pz.prototype={
 aL(){return new A.tk(B.n)}}
 A.tk.prototype={
 Lg(){this.aR(new A.Vl(this))},
+<<<<<<< HEAD
 K(a,b){var s,r=null
 this.a.toString
 s=A.a3y("Flutter Demo Home Page",r)
 return new A.qr(new A.nS(s,new A.Et(r,r,1/0,56),r),A.Im(A.aaN(A.a([B.FL,A.a3y(""+this.d,A.bI(b).U.d)],t.p),B.zY),r,r),A.a24(B.wz,!1,this.gLf(),"Increment"),r)}}
+=======
+K(a,b){var s=null,r=A.a3y("Navbar",s)
+return new A.qr(new A.nS(r,new A.Et(s,s,1/0,56),s),A.Im(A.aaN(A.a([B.FL,A.a3y(""+this.d,A.bI(b).U.d)],t.p),B.zY),s,s),A.a24(B.wz,!1,this.gLf(),"Increment"),s)}}
+>>>>>>> d82f930 (init)
 A.Vl.prototype={
 $0(){++this.a.d},
 $S:0}
@@ -49371,7 +49380,11 @@ B.D4=new A.n(!1,null,null,null,null,null,15,B.bs,null,null,null,B.t,null,null,nu
 B.Fl=new A.n(!1,null,null,null,null,null,11,B.w,null,null,null,B.t,null,null,null,null,null,null,null,null,null,"tall overline 2014",null,null,null)
 B.FJ=new A.cC(B.Dx,B.Dy,B.Dz,B.DA,B.El,B.D5,B.CR,B.F8,B.DY,B.DZ,B.DB,B.D4,B.Fl)
 B.FK=new A.Ax(1,"longestLine")
+<<<<<<< HEAD
 B.FL=new A.mD("You have pushed the button this many times:",null,null,null)
+=======
+B.FL=new A.mD("Sudarshan Shrestha Testing Website",null,null,null)
+>>>>>>> d82f930 (init)
 B.IF=new A.SM(0,"system")
 B.FM=new A.r6(null)
 B.d8=new A.r8(0,"clamp")
